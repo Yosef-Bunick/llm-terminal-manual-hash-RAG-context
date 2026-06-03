@@ -1,6 +1,7 @@
 # LLM Terminal (Tauri)
 
 Lightweight LLM chat interface. ~8MB bundle vs ~150MB Electron.
+This llm terminal was created for education purposes to explain how hash rag and llm calls are executed
 
 ## Requirements
 
